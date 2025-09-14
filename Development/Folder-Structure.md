@@ -20,3 +20,6 @@ cashback-optimizer/
 │ ├── RateServiceTest.java # Unit tests for HashMap lookup logic
 │ ├── ExpiryServiceTest.java # (To-do) Tests for expiry min-heap
 │ └── OptimizationServiceTest.java # (To-do) Tests for graph-based optimization
+
+
+*POJO-Plain Old Java Object
