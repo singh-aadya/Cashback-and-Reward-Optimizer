@@ -5,11 +5,6 @@
 - **User Interaction** → CLI with `Scanner` (e.g., `java CashbackOptimizer optimize grocery 1000`).  
 - **Data Storage** → Local JSON files (parsed via Jackson), no DB needed for MVP.  
 
-## ⚡ Why Java Works for MVP
-- **Rapid Development** → Single JAR deployment, strong type safety avoids runtime errors.  
-- **Performance** → JVM optimizations + efficient memory for sub-second lookups & heap ops.  
-- **Easy Distribution** → Cross-platform executable (`java -jar cashback-optimizer.jar`).  
-
 ## 🚀 Future Scaling Path
 - **Phase 2** → Add Spring Boot REST API, expose proven DSA core as backend service.  
 - **Phase 3** → Android app / web frontend consuming backend APIs.  
