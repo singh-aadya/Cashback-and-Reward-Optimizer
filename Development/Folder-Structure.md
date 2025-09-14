@@ -12,15 +12,20 @@ cashback-optimizer/
 │   │   │               │   ├── PaymentMethod.java          # Payment method data class
 │   │   │               │   ├── MerchantRate.java           # Rate mapping data class
 │   │   │               │   ├── RewardExpiry.java           # Expiry data for min-heap
-│   │   │               │   └── OptimizationResult.java     # Result wrapper class
+│   │   │               │   ├── CategoryBudget.java         # Category spending data
+│   │   │               │   ├── PlatformConstraint.java     # Platform limits & constraints
+│   │   │               │   ├── AllocationResult.java       # DP optimization result
+│   │   │               │   └── OptimizationResult.java     # Basic result wrapper
 │   │   │               └── services/
-│   │   │                   ├── RateService.java            # HashMap + ArrayList
+│   │   │                   ├── RateService.java            # HashMap DSA operations
 │   │   │                   ├── ExpiryService.java          # PriorityQueue/Min-Heap DSA
-│   │   │                   └── OptimizationService.java    # Graph + LinkedHashMap
+│   │   │                   ├── DynamicProgrammingService.java # DP Algorithm Core
+│   │   │                   └── OptimizationService.java    # Coordinates all optimizations
 │   │   └── resources/
 │   │       └── data/
 │   │           ├── cashback-rates.json                     # Sample cashback data
-│   │           ├── reward-expiry.json                      # NEW: Sample expiry data
+│   │           ├── platform-constraints.json               # Platform limits & rules
+│   │           ├── reward-expiry.json                      # Sample expiry data
 │   │           └── categories.json                         # Categories configuration
 │   └── test/
 │       └── java/
@@ -30,8 +35,9 @@ cashback-optimizer/
 │                       └── services/
 │                           ├── RateServiceTest.java        # HashMap tests
 │                           ├── ExpiryServiceTest.java      # Min-Heap/PriorityQueue tests
-│                           └── OptimizationServiceTest.java # Graph algorithm tests
+│                           ├── DynamicProgrammingServiceTest.java # DP Algorithm tests
+│                           └── OptimizationServiceTest.java # Integration tests
 ├── pom.xml                                                 # Maven build configuration
 ├── README.md                                               # Project documentation
 └── .gitignore                                              # Exclude build files
-                                           # Exclude build files
+    # Exclude build files
