@@ -53,22 +53,6 @@
 ]
 ```
 
-#### **User CLI Commands (Input)**
-
-```bash
-# Optimization command
-java -jar cashback-optimizer.jar optimize grocery 1000
-
-# Rate lookup command  
-java -jar cashback-optimizer.jar rates dining
-
-# Expiry check command
-java -jar cashback-optimizer.jar expiring
-
-# Add reward command
-java -jar cashback-optimizer.jar add-reward hdfc_credit 200 2025-10-15
-```
-
 ---
 
 ### **2. Generated Output Examples**
