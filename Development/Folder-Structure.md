@@ -1,5 +1,5 @@
- 📂 Folder Structure
-```plaintext
+# 📂 Folder Structure
+```
 cashback-optimizer/
 ├── src/
 │ ├── main/
@@ -23,7 +23,7 @@ cashback-optimizer/
 
 
 *POJO-Plain Old Java Object
-
+````
 # 🏗️ The DSA Cashback Optimizer: Technical Architecture Journey
 
 ## 📦 Application Container
