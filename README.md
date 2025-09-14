@@ -1,4 +1,4 @@
-# rewards-optimizer-dsa
+# Cashback & Rewards Optimizer
 
 
 
