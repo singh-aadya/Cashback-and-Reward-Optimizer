@@ -24,4 +24,4 @@
 
 ---
 
-**Bottom Line**: Deliverables cover **end-to-end product scope** — from a working DSA-powered CLI app to full technical documentation, modular source code, and user-friendly guid
+**Bottom Line**: Deliverables cover **end-to-end product scope** — from a working DSA-powered CLI app to full technical documentation, modular source code, and user-friendly guide
