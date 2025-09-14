@@ -1,5 +1,4 @@
 
-````markdown
 ## **Input Data and Output Examples for DSA Cashback Optimizer** 📊
 
 ---
