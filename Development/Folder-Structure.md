@@ -32,7 +32,3 @@ cashback-optimizer/
 ├── pom.xml                                                 # Maven build configuration
 ├── README.md                                               # Project documentation
 └── .gitignore                                              # Exclude build files
-
-
-
-*POJO-Plain Old Java Object
