@@ -14,9 +14,9 @@ cashback-optimizer/
 │   │   │               │   ├── RewardExpiry.java           # Expiry data for min-heap
 │   │   │               │   └── OptimizationResult.java     # Result wrapper class
 │   │   │               └── services/
-│   │   │                   ├── RateService.java            # HashMap DSA operations
+│   │   │                   ├── RateService.java            # HashMap + ArrayList
 │   │   │                   ├── ExpiryService.java          # PriorityQueue/Min-Heap DSA
-│   │   │                   └── OptimizationService.java    # Graph DSA algorithms
+│   │   │                   └── OptimizationService.java    # Graph + LinkedHashMap
 │   │   └── resources/
 │   │       └── data/
 │   │           ├── cashback-rates.json                     # Sample cashback data
