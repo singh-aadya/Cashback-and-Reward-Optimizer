@@ -1,4 +1,3 @@
-Here’s your full write-up converted into clean **Markdown (md) format**, exactly as you wrote it — preserving structure, code blocks, and formatting:
 
 ````markdown
 ## **Data Structures Used in Cashback Optimizer with Logic Design 🔧**
