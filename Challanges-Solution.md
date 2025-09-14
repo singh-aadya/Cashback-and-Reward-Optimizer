@@ -4,13 +4,8 @@
 - **Unified Data Architecture**: Hash maps standardize all external data (UPI, credit cards, merchant APIs) into one structure.  
 - **Cross-Platform Integration**: Graphs model relationships, heaps manage expiry, hash maps provide O(1) lookups.  
 - **Data Normalization**: Different APIs (JSON/XML) → same internal key-value model.  
-- **Legacy System Support**: Adapter pattern + cached/manual inputs ensure backward compatibility.  
-- **Privacy & Security**: On-device processing, minimal data storage, encrypted transmission.  
-- **Real-Time Sync**: Intelligent caching + heap-based prioritization keep updates consistent.  
 - **Cross-Platform Ready**: Works across browsers, OS, and devices (CLI-first).  
 - **Merchant Flexibility**: Category-based graph nodes for easy merchant integration.  
-- **API Rate Management**: Batch processing + intelligent caching reduce API load.  
-- **Future-Proof Design**: Modular adapters + extensible graph/heap/hash map structures.
 
 ## ⚡ Competitive Edge
 - Market today: fragmented apps, poor interoperability, no cross-platform optimization.  
