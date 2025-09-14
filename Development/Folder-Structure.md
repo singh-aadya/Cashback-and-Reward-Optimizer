@@ -1,4 +1,5 @@
  #📂 Folder Structure
+```plaintext
 cashback-optimizer/
 ├── src/
 │ ├── main/
