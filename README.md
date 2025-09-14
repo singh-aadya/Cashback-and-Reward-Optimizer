@@ -1,5 +1,7 @@
 # Cashback & Rewards Optimizer
 
+A Java command-line app that helps users find the best cashback rewards across payment platforms, using HashMap, PriorityQueue, and Graph algorithms to make smart, real-time savings decisions.
+
 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a915b649-8219-4d3b-a2e7-7f7462497db6" />
