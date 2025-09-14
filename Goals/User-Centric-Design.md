@@ -15,7 +15,7 @@
 - Alerts for soon-to-expire cashback/points  
 - Monthly savings + optimization history dashboard  
 
-## 🤖 Smart Recommendations
+## 🤖 Future Opportunities - Smart Recommendations
 - Personalized spending suggestions based on patterns  
 - Category-specific cashback alerts  
 - Automated redemption reminders  
