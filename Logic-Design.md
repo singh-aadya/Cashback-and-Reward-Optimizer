@@ -1,5 +1,4 @@
 
-````markdown
 ## **Data Structures Used in Cashback Optimizer with Logic Design 🔧**
 
 ### **1. HashMap - Rate Lookup System**
