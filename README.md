@@ -2,7 +2,7 @@
 
 A Java command-line app that helps users find the best cashback rewards across payment platforms, using HashMap, Min-Heap, PriorityQueue, and Graph algorithms to make smart, real-time savings decisions.
 
-# 1. INTRODUCTION & PROBLEM STATEMENT
+## 1. INTRODUCTION & PROBLEM STATEMENT
 
 ## 1.1 Background
 The digital payment ecosystem in India features over 50+ cashback applications across categories like UPI payments, e-commerce, dining, and credit cards. Users lose approximately ₹2,000+ monthly due to suboptimal payment method selection, representing a ₹14 billion market inefficiency.
